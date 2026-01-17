@@ -1,4 +1,4 @@
-package com.example.calmreminder
+package com.calmreminder.admin
 
 import io.flutter.embedding.android.FlutterActivity
 
